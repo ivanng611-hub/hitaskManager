@@ -1,2 +1,0 @@
-# hitaskManager
-PRIVACY POLICY

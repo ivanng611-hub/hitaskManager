@@ -1,0 +1,46 @@
+PRIVACY POLICY
+Last updated: May 14, 2026
+
+This Privacy Policy describes how TaskManager ("we", "our", or "us") handles your information when you use our mobile application (the "App").
+
+1. NO DATA COLLECTION
+
+TaskManager is designed as a 100% offline, privacy-first application. We do NOT collect, store, transmit, or share any personal data, usage statistics, crash logs, or any other information from you or your device.
+
+2. LOCAL DATA STORAGE
+
+All data you create within the App — including tasks, projects, reminders, and settings — is stored exclusively on your device using IndexedDB (a local browser database). No data is ever sent to external servers, cloud services, or third parties.
+
+3. NO ACCOUNTS OR REGISTRATION
+
+The App does not require any account creation, registration, email address, phone number, or any form of user identification. There are no login systems, authentication mechanisms, or user profiles.
+
+4. NO THIRD-PARTY SERVICES
+
+The App does not integrate any third-party analytics, advertising networks, crash reporting tools, or external SDKs that might collect or process your data. All functionality — including task management, notifications, data export, and calendar generation — operates entirely on your device without internet connectivity.
+
+5. LOCAL NOTIFICATIONS
+
+The App may use local push notifications to remind you of task deadlines. These notifications are generated and scheduled entirely on your device. No notification data is sent to any external service.
+
+6. DATA EXPORT
+
+The App allows you to export your data in CSV, PDF, or ICS format. These exports are generated locally on your device and shared only through your explicit action (e.g., using the system share sheet). We have no access to exported files.
+
+7. CHILDREN'S PRIVACY
+
+The App does not collect any personal information from anyone, including children under the age of 13.
+
+8. CHANGES TO THIS POLICY
+
+We may update this Privacy Policy from time to time. Any changes will be reflected by updating the "Last updated" date at the top of this policy. Since the App does not collect data, changes will pertain only to operational clarifications.
+
+9. CONTACT
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+ivanng611@gmail.com
+
+---
+
+Because your data never leaves your device, your privacy is guaranteed by design.
